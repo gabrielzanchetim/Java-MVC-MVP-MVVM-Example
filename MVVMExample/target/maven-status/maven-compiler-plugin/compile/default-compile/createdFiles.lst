@@ -1,0 +1,5 @@
+viewmodel\UserViewModel.class
+view\UserViewInterface.class
+model\User.class
+view\UserView.class
+grupo17\mvvmexample\MVVMExample.class

@@ -1,0 +1,6 @@
+view\UserViewInterface.class
+grupo17\mvpexample\MVPexample.class
+view\UserViewInterface$Presenter.class
+presenter\UserPresenter.class
+model\User.class
+view\UserView.class
